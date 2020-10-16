@@ -1,11 +1,12 @@
-html {
+html,
+body {
   font-size: 62.5%;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 $colors: (
-  red: #ff5722,
+  orange: #ff5722,
   white: #fff,
   blue: #00b0ff,
   black: #000,
